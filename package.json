@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "email-validator": "^1.0.4",
+    "is-valid": "^1.1.0",
+    "json-stringify-safe": "^5.0.1",
+    "mongodb": "^2.1.4",
+    "underscore": "^1.8.3"
+  }
+}
